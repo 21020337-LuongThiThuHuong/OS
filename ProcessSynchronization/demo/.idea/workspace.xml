@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e763c53b-1bcf-426c-8ed9-e52edd9bd552" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../21020908_NguyenMinhHieu_BT#6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../21020908_NguyenMinhHieu_BT#6.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cac+cau+hoi+va+bai+tap+on+tap.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chương 3/Bài tập 1 - C3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chương 3/Bài tập 2 - C3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeadlockDetection.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FCFS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FSFC_double.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Note.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Priority_NONPRE.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Priority_PRE.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReplacePage/FIFO.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReplacePage/FIFO.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReplacePage/LFU+LRU.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReplacePage/LFU+LRU.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReplacePage/LRU.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReplacePage/LRU.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReplacePage/MFU+LRU.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReplacePage/MFU+LRU.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReplacePage/Timer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReplacePage/Timer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReplacePage/Timer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReplacePage/Timer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReplacePage/abc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReplacePage/abc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RoundRobin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RoundRobin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RoundRobin.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SJF_NONPRE.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SJF_PRE.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../acb.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../banker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LMzLzvhDES0cosbyUbbNWTxThd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e763c53b-1bcf-426c-8ed9-e52edd9bd552" name="Changes" comment="" />
+      <created>1675695689050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675695689050</updated>
+    </task>
+    <servers />
+  </component>
+</project>
